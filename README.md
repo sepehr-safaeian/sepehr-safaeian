@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Code is Art, Code is Poetry — human meets AI" width="100%" />
-
-<br/>
 
 <a href="https://github.com/sepehr-safaeian">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&width=760&height=45&lines=AI+Software+Engineer;AI+Fullstack+Engineer;AI+Applied+Engineer;Code+is+Art%2C+Code+is+Poetry" alt="Typing SVG" />
