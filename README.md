@@ -25,7 +25,7 @@ What drives me is **problem solving, not just writing functions.** I'm curious a
 > 💬 *"Code is Art, Code is Poetry."*
 > The banner is my take on Michelangelo's *Creation of Adam*: the human spark reaching toward the machine. AI amplifies human craft; it doesn't replace it.
 
-**Open to roles:** AI Applied Engineer · AI Software Engineer · AI Fullstack Engineer · Fullstack Engineer · Software Engineer
+**Open to roles:** Forward Deployed Engineer · AI Applied Engineer · AI Software Engineer · AI Fullstack Engineer · Fullstack Engineer · Software Engineer
 
 ---
 
